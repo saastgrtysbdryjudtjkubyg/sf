@@ -1,0 +1,13 @@
+.title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+    margin: 50px 0 0 0;
+}
+
+img {
+    display: block;
+    margin: 30px auto 0px;
+    border: 10px solid red;
+    border-radius: 20px;
+}
