@@ -1,13 +1,30 @@
-.title {
+.conteiner {
+    max-width: 1000px;
+    margin: 0 auto;
     text-align: center;
-    font-size: 30px;
-    font-weight: 900;
-    margin: 50px 0 0 0;
+    font-style: inherit;
 }
 
-img {
-    display: block;
-    margin: 30px auto 0px;
-    border: 10px solid red;
-    border-radius: 20px;
+.mine {
+    font-weight: 900;
+}
+
+.bb {
+    background: chartreuse;
+    color: aliceblue;
+    width: 149px;
+    font-weight: 900;
+    margin: 50px 0 0 0;
+    padding: 21px 0 21px 0;
+    width: 149px;
+    margin: 25px auto;
+}
+
+.dd {
+    background: dimgray;
+}
+
+.monster {
+    background: dimgray;
+    height: 1000px;
 }
